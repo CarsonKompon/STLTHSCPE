@@ -8,3 +8,5 @@ Lexaloffle Forums: https://www.lexaloffle.com/bbs/?tid=38960
 Newgrounds: https://www.newgrounds.com/portal/view/763297
 
 Itch.io: https://carsonk.itch.io/stlthscp
+
+Teia: https://teia.art/objkt/452628
